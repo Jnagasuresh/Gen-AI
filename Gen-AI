@@ -1,0 +1,9 @@
+# Gen-AI Components:
+
+## Encoding:
+ is the process of transforming raw input — text, images, audio — into a numerical representation the model can work with. Think of it as translating human-readable data into a language math understands.
+
+## Embedding:
+ is the process of transforming raw input — text, images, audio — into a numerical representation the model can work with. Think of it as translating human-readable data into a language math understands.
+
+![Embedding-flow](https://github.com/Jnagasuresh/Gen-AI/blob/main/images/embedding_flow.png)
