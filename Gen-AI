@@ -1,0 +1,49 @@
+# Gen-AI Components:
+
+## Encoding:
+ is the process of transforming raw input — text, images, audio — into a numerical representation the model can work with. Think of it as translating human-readable data into a language math understands.
+
+## Embedding:
+ is the process of transforming raw input — text, images, audio — into a numerical representation the model can work with. Think of it as translating human-readable data into a language math understands.
+
+![Embedding flow](https://github.com/Jnagasuresh/Gen-AI/blob/b71a10a368974d972fed1727bbf225f4e12c0dde/images/embedding_flow.png)
+
+
+#### To Create **venv** use below command
+```
+ python -m venv env
+ ```
+ 
+ ###E to activate env, use below command
+ ```
+ env\Scripts\activate  
+ ```
+ pip install requests==2.0
+ 
+ #### to get all python's are in machine, use below command
+
+ ```
+ uv python list
+ ```
+ #### to use particular python version during virtual environment, use below command
+
+uv python install <give the specific version of the python>
+
+use only cpython interpreter.
+ ```
+ uv venv env --python cpython-3.11.14-windows-x86_64-none
+ ```
+ #### to install all the libraries from requirements.txt file, use below command
+
+ ```
+ uv pip install -r requirements.txt
+ ```
+
+ #### Embedding leader board
+```
+ https://huggingface.co/spaces/mteb/leaderboard
+
+ https://www.sbert.net/
+
+ https://huggingface.co/models?library=sentece-transformers
+ ```
