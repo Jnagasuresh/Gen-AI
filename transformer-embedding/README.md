@@ -24,3 +24,6 @@
  #### Sentence transformers:
  https://huggingface.co/sentence-transformers
  SentenceTransformers 🤗 is a Python framework for using and training state-of-the-art embedding and reranker models. It can be used to compute embeddings from text, images, audio, or video using Sentence Transformer models 
+
+ ## Transformer Architecture
+ 
