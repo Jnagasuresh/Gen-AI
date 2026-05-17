@@ -16,3 +16,8 @@ langchain-openai
 pandas
 nltk
 pyyaml
+langchain_google_genai
+langchain-openai
+langchain-groq
+langchain-openrouter
+langchain-huggingface
