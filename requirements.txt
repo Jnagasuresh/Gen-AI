@@ -22,3 +22,4 @@ langchain-groq
 langchain-openrouter
 langchain-huggingface
 langchain-core
+langchain-ollama
